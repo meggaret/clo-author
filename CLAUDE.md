@@ -5,8 +5,8 @@
      Keep this file under ~150 lines — Claude loads it every session.
      See the guide at https://hsantanna88.github.io/clo-author/ for full documentation. -->
 
-**Project:** [YOUR PROJECT NAME]
-**Institution:** [YOUR INSTITUTION]
+**Project:** Gender in the Classroom
+**Institution:** Gettysburg College
 **Branch:** main
 
 ---
